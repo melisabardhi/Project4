@@ -1,6 +1,9 @@
 # Using Convolutional Neural Networks for Image Detection
 
-## Background
+## Tools Used 
+Python, TensorFlow, Keras, Scikit-learn, NumPy, Pandas
+
+## Introduction
 In this project, I build several Convolutional Neural Networks to sift through photos and detect images that contain trees. The models consist of one baseline and five VGG19 CNNs, all of which are compared to determine the best performer.
 
 ## Baseline Model
@@ -17,6 +20,6 @@ In this project, I build several Convolutional Neural Networks to sift through p
 - Trees in the distance
 
 ## Examples of Missclassified Images
-[![1.png](https://i.postimg.cc/XvhM1Q2B/1.png)](https://postimg.cc/yJFrkXC7)
+![Screenshot](4.1.png)
 
 
